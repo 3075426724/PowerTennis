@@ -1,12 +1,12 @@
-# 云开发 quickstart
+ 1） 可以通过小程序轻松使用认证校友身份、办理校友卡、查询关注校友、加入校友组织、参加校友活动、享受校友福利等一系列功能
+![image](https://user-images.githubusercontent.com/88120656/127428676-378f30d3-83e7-4591-b84c-b7b4bb1aef60.png)
 
-这是云开发的快速启动指引，其中演示了如何上手使用云开发的三大基础能力：
+为提高审核效率，
 
-- 数据库：一个既可在小程序前端操作，也能在云函数中读写的 JSON 文档型数据库
-- 文件存储：在小程序前端直接上传/下载云端文件，在云开发控制台可视化管理
-- 云函数：在云端运行的代码，微信私有协议天然鉴权，开发者只需编写业务逻辑代码
+2）您可上传学位证或毕业证（其中之一）。
+![image](https://user-images.githubusercontent.com/88120656/127428703-40bbef57-c014-48e9-a798-0d262e51bed6.png)
+![image](https://user-images.githubusercontent.com/88120656/127428715-2c32ae26-07a3-4f95-8ec8-a0564f81ce83.png)
 
-## 参考文档
-
-- [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
-
+3） 
+审核通过后，将收到注册成功通知。
+![5932654c56a86c46f8a010037914512](https://user-images.githubusercontent.com/88120656/127428801-90ca7fe1-3818-4c13-8f30-334d878cda70.png)
