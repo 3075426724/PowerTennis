@@ -10,3 +10,5 @@
 3） 
 审核通过后，将收到注册成功通知。
 ![5932654c56a86c46f8a010037914512](https://user-images.githubusercontent.com/88120656/127428801-90ca7fe1-3818-4c13-8f30-334d878cda70.png)
+
+作者vx: cclinux0730, 欢迎交流
